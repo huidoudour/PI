@@ -18,7 +18,7 @@ class LibraryConventionPlugin : Plugin<Project> {
             buildToolsVersion = "36.1.0"
 
             defaultConfig {
-                minSdk = 30
+                minSdk = 29
             }
 
             compileOptions {
